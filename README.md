@@ -4,7 +4,7 @@ Run setup.sh on linux / mac os: `./setup.sh`
 
 ## Dependencies
 
-neovim: `brew install neovim` / `apt install neovim` / `pacman -S neovim` / `dnf install neovim` etc.
+neovim: `brew install neovim` / `apt install neovim` / `pacman -S neovim` / `dnf install neovim` etc. <br>
 nodejs >= 12.12:
 `curl -sL install-node.vercel.app/lts | bash`
 
